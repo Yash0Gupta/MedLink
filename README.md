@@ -1,4 +1,4 @@
-# MedLinl : Electronic Health Records Using Blockchain
+# MedLink : Electronic Health Records Using Blockchain
 
 
 ## Introduction
